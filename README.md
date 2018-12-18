@@ -1,10 +1,8 @@
-# Economic
-This is program to calculate . You can try playing game with computer and try to win. If you will win the game, system write that you winned and will start new game. This project was implemented for the next purposes:
-*	Get experience with css preprocessor "SASS"
+This is program to calculate your own costs . You can see all your costs and trying to make more econom your budget. This project was implemented for the next purposes:
 *	Get experience with "Webpack"
-*	Get experience with CI ("Travis")
-*	Get experience with mobile touch events
+*	Get experience with React
 *	Improve knowledge with "flexbox"
+*	Improve knowledge with Redux
 *	Improve knowledge with DOM events
 
 ## ELEKS Front-Camp 2018
@@ -23,9 +21,5 @@ This is program to calculate . You can try playing game with computer and try to
 *Firebase [Economic](https://enonomic.firebaseapp.com/)
 
 ## Mockups
-![Tic-tac-toe](https://preview.ibb.co/bXQLfA/mockup-tic.png)
-![Tic-tac-toe_mobile](https://preview.ibb.co/mAaxSq/mockup-tic-mobile.png)
+![Economic](https://preview.ibb.co/bXQLfA/mockup-tic.png)
 
-## Twitter link
-
-*Twitter  [Tic-tac-toe](https://twitter.com/DenysGodovanets/status/1062348807340519424)
