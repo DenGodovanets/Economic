@@ -1,0 +1,30 @@
+header {
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+header .logo{
+    margin-left: 10%;
+}
+header .logo a {
+    text-decoration: none;
+    font-size: 30px;
+    font-weight: bold;
+    color:green
+}
+header .info {
+    text-decoration: none;
+    width:150px;
+    height: 30px;
+    margin-right: 10%; 
+}
+header .info a {
+    color:black;
+    text-decoration: none;
+}
+main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+

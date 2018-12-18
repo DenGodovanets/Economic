@@ -1,0 +1,14 @@
+.notFound {
+    height: 500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.notFound b {
+    font-size: 30px;
+}
+.notFound .error {
+    color:red;
+    font-size: 70px;
+}
