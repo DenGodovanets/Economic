@@ -1,5 +1,5 @@
-# Tic-tac-toe
-This is tic tac toe game. You can try playing game with computer and try to win. If you will win the game, system write that you winned and will start new game. This project was implemented for the next purposes:
+# Economic
+This is program to calculate . You can try playing game with computer and try to win. If you will win the game, system write that you winned and will start new game. This project was implemented for the next purposes:
 *	Get experience with css preprocessor "SASS"
 *	Get experience with "Webpack"
 *	Get experience with CI ("Travis")
@@ -14,11 +14,13 @@ This is tic tac toe game. You can try playing game with computer and try to win.
 
 
 ## Tech stack
-*	javascript
-*	html/css/scss
+*	React
+*	Js
+*	html/css
+*	Redux
 
 ## Demo
-*Github page [Tic-tac-toe](https://dengodovanets.github.io/tic-tac-toe/)
+*Firebase [Economic](https://enonomic.firebaseapp.com/)
 
 ## Mockups
 ![Tic-tac-toe](https://preview.ibb.co/bXQLfA/mockup-tic.png)
