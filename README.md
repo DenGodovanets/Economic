@@ -19,7 +19,7 @@ This is program to calculate your own costs . You can see all your costs and try
 *	Redux
 
 ## Demo
-*Firebase [Economic](https://enonomic.firebaseapp.com/)
+*Firebase [Economic](https://ecomon-732fd.firebaseapp.com/)
 
 ## Mockups
 ![Economic](https://i.ibb.co/7kFnzxW/ecomon1.png)
