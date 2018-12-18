@@ -22,5 +22,5 @@ This is program to calculate your own costs . You can see all your costs and try
 
 ## Mockups
 ![Economic](https://i.ibb.co/7kFnzxW/ecomon1.png)
-![Economic](https://ibb.co/6ZgCnjm)
+![Economic](https://i.ibb.co/7z2mYsX/ecomon404.png)
 
