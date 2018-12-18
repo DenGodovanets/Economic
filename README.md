@@ -1,3 +1,4 @@
+# Economic
 This is program to calculate your own costs . You can see all your costs and trying to make more econom your budget. This project was implemented for the next purposes:
 *	Get experience with "Webpack"
 *	Get experience with React
