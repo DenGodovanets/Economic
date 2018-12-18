@@ -21,5 +21,6 @@ This is program to calculate your own costs . You can see all your costs and try
 *Firebase [Economic](https://enonomic.firebaseapp.com/)
 
 ## Mockups
-![Economic](https://preview.ibb.co/bXQLfA/mockup-tic.png)
+![Economic](https://ibb.co/HhQt2Lz)
+![Economic](https://ibb.co/6ZgCnjm)
 
